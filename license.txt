@@ -1,0 +1,2 @@
+This repository contains necessary files for simulating plasmonic nanopixel using organic electrochromic polymers.
+
